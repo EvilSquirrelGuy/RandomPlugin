@@ -1,3 +1,3 @@
-# Replugged plugin template
+# Random Plugin
 
-See the [plugin development guide](https://guide.replugged.dev/docs/plugins/getting-started) for more information on using this template.
+idk what this does, will do or has done. might update the name and stuff *later*
