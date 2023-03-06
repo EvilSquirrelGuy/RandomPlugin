@@ -1,18 +1,18 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "dev.evilsquirrelguy.random-plugin",
+  "name": "Random Plugin",
+  "description": "A random plugin, idk",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "EvilSquirrelGuy",
+    "discordID": "776198773101035529",
+    "github": "EvilSquirrelGuy"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "EvilSquirrelGuy/RandomPlugin"
   },
-  "license": "MIT",
+  "license": "MPL-2.0",
   "type": "replugged-plugin",
   "renderer": "src/index.ts"
 }
